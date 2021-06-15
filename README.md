@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hotampa GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hotampa&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Hotampa/Hotampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
