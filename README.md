@@ -1,4 +1,4 @@
-[![Hotampa GitHub Stats]](https://github.com/anuraghazra/github-readme-stats)
+[](https://github.com/anuraghazra/github-readme-stats)
 
 Make sure to check out [Plugily Projects](https://discord.plugily.xyz/)
 
