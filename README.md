@@ -2,4 +2,4 @@
 
 Make sure to check out [Plugily Projects](https://discord.plugily.xyz/)
 
-I'm currently learning Skript and Discord.js!
+I have basic knowledge in Skript and JavaScript!
