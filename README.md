@@ -2,4 +2,4 @@
 
 Make sure to check out [Plugily Projects](https://discord.plugily.xyz/)
 
-I have basic knowledge in Skript and JavaScript!
+I have deep knowledge in Skript and bare knowledge in JavaScript!
